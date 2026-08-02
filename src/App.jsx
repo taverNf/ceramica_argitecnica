@@ -8,7 +8,6 @@ function App() {
       <Header />
       <main className="page-content">
         <Hero />
-        <Hero />
       </main>
     </>
   )
